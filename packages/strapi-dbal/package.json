@@ -5,7 +5,7 @@
   "homepage": "http://strapi.io",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"no tests yet\""
   },
   "directories": {
     "lib": "./lib"
